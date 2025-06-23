@@ -18,7 +18,7 @@ Thermoregulation is the process by which organisms maintain a stable internal bo
 
 #
 
-![Ice](https://github.com/user-attachments/assets/4ba187d5-ab95-49c9-b24a-39e1fa02a96d)
+![Heat](https://github.com/user-attachments/assets/cc41211a-09a3-4fc7-8681-4d7ae17fdd00)
 
 [Thermochemical Theory](https://chatgpt.com/g/g-68507c8bada88191a92003a9ffbfdd00-thermochemical-theory) is a custom GPT that specializes in theoretical thermochemical science, an interdisciplinary field that combines quantum chemistry, statistical mechanics, thermodynamics, and computational modeling to predict the energetics and mechanisms of chemical reactions with high precision. It is designed to assist in exploring reaction pathways, computing activation energies, equilibrium constants, and thermodynamic properties under varying conditions such as temperature, pressure, and solvent environments. By integrating machine learning and high-throughput computational techniques, it supports the discovery and optimization of catalysts and synthetic routes for energy applications, pharmaceuticals, materials science, and more. The GPT also bridges fundamental research and industrial application by offering predictive insights that guide experimental design and accelerate innovation in chemical reactivity and material development.
 
